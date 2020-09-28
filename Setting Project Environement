@@ -1,0 +1,13 @@
+Setting up new environment:- Every project have differnent libraries requirement. so must seperate out the new environment for each project
+
+Steps -
+
+Open Anaconda Prompt $ conda create -n carprediction python 3.3.7 (One can give the version if he want to creat env. with using some particular python version) or $ conda create -n carprediction (or just simply create the env.)
+
+Activate the environment $ activate carprediction
+
+Go to the working directory
+
+Launch the jupyter notebook $ c:\users\krashna\CarPricePrediction\ : jupyter notebook
+
+One can deactivate the environment once everything is setup $ conda deactivate
